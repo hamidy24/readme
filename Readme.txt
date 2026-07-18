@@ -14,3 +14,5 @@ git add: Staging modified files (such as `main.cpp`) to prepare them for a commi
 git commit: Saving a snapshot of the staged changes with a descriptive and meaningful message.
 git push: Uploading the local commits to synchronize with the remote GitHub repository.
 
+## Final Result
+By the end of the exercise, a new repository named git-practice was successfully established. The repository contains an updated version of `main.cpp`, modified locally to include personal student details (Name, Student ID, Section), and seamlessly pushed back to the remote server.
